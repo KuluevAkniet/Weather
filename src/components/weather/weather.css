@@ -1,0 +1,19 @@
+@keyframes info{
+   from {height:0}
+   to{height:300px}
+}
+
+
+.info_block {
+    animation-name: info;
+    animation-duration: 1s;
+  
+}
+
+.info_title{
+    padding-top: 10px;
+    line-height: 30px;
+    font-weight: 700;
+    font-size: 20px;
+}
+

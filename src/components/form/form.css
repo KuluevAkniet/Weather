@@ -1,0 +1,22 @@
+.form{
+    display: flex;
+    column-gap: 10px;
+}
+
+.form_input{
+    width: calc(60% - 5px);
+    height: 40px;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    padding-left: 10px;
+}
+
+.form_btn{
+    width: calc(40% - 5px);
+    height: 40px;
+    border-radius:30px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
